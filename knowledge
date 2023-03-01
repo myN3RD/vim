@@ -1,4 +1,4 @@
-            navigation
+            NAVIGATION
             __________
             
 
@@ -11,3 +11,30 @@ down  -  k
 left  -  j
 
 right -  l
+
+
+
+
+
+            MODES
+            _____
+            
+          
+Normal / Command Mode               press       esc
+
+-- Insert Mode --                   press             i
+
+Line Mode
+
+and so one....
+
+
+quit                                press             :q!
+
+
+
+save file -> first go back to -> normal mode -> press :wq         (wq = wwite and quit)
+
+
+
+creating a file -> in terminal -> vim abc123
