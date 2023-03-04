@@ -29,12 +29,22 @@ Line Mode
 and so one....
 
 
-quit                                press             :q!
+
+            CHANGING AN EXISTING FILE
+            _________________________
+            
+            
+go to the file with terminal -> vim filename
 
 
 
 save file -> first go back to -> normal mode -> press :wq         (wq = wwite and quit)
 
+quit                                press             :q!
+
+
+
 
 
 creating a file -> in terminal -> vim abc123
+
