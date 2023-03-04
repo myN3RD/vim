@@ -54,6 +54,15 @@ and so one....
 go to the file with terminal -> vim filename
 
 
+deleting one carakter   -    x  or  X
+
+delete one word  -  dw  (starts where the cursor is)
+
+
+
+
+
+
 
 save file -> first go back to -> normal mode -> press :wq         (wq = wwite and quit)
 
