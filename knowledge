@@ -19,10 +19,16 @@ move down a page   -    control +
 move up one page   -    control + b
 
 
-move right one word      -    w     or      W
+move right one word    -    w     or      W
 
-move left one word       -    b     or      B
+move left one word     -    b     or      B
 
+
+beginng of the line    -    0
+
+end of the line        -    $
+
+go to a specific line  -    ..gg  1gg 20gg 3gg
 
 
 
