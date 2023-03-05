@@ -20,6 +20,7 @@ move up one page   -    control + b
 
 
 move right one word    -    w     or      W
+move more words        -   3w
 
 move left one word     -    b     or      B
 
@@ -54,9 +55,19 @@ and so one....
 go to the file with terminal -> vim filename
 
 
+
+DELETING STUFF
+______________
+
 deleting one carakter   -    x  or  X
 
 delete one word  -  dw  (starts where the cursor is)
+
+delete till beginning or end of the line  -  d0  or  d$
+
+delete one line  -  dd
+
+delete 3 words  -  d3w
 
 
 
