@@ -56,6 +56,7 @@ go to the file with terminal -> vim filename
 
 
 
+
 DELETING STUFF
 ______________
 
@@ -72,12 +73,14 @@ delete 3 words  -  d3w
 
 
 
+SAVING
+______
 
+save file while open -> :w
 
+save and quit -> first go back to -> normal mode -> press :wq         (wq = wwite and quit)
 
-save file -> first go back to -> normal mode -> press :wq         (wq = wwite and quit)
-
-quit                                press             :q!
+quit            ->            :q! (! = force quit)  or  :q
 
 
 
