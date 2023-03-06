@@ -64,11 +64,16 @@ deleting one carakter   -    x  or  X
 
 delete one word  -  dw  (starts where the cursor is)
 
+delete 3 words  -  d3w
+
+
 delete till beginning or end of the line  -  d0  or  d$
 
 delete one line  -  dd
 
-delete 3 words  -  d3w
+delete more lines  -  3dd
+
+
 
 
 
@@ -87,4 +92,14 @@ quit            ->            :q! (! = force quit)  or  :q
 
 
 creating a file -> in terminal -> vim abc123
+
+
+
+
+
+            VIM HELP SYSTEM
+            _______________
+            
+            
+:help
 
