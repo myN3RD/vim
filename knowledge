@@ -103,3 +103,5 @@ creating a file -> in terminal -> vim abc123
             
 :help
 
+everything in the vim docs in [..] is optional!  :q     is the same command like   :quit
+
