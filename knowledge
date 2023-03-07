@@ -70,6 +70,7 @@ delete 3 words  -  d3w
 delete till beginning or end of the line  -  d0  or  d$
 
 delete one line  -  dd
+yank(paste) one line  -  yy
 
 delete more lines  -  3dd
 
@@ -107,15 +108,31 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
 
 
 
-            CUT, COPY & PASTE
-            _________________
+
+
+
+
+            STANDARD VS VIM
+            _______________
             
             
- COPY & PASTE
- ____________
+            cut    =   delete ()
+            copy   =   yank (yw, y3w or 3yw)
+            paste  =   put (p)
+            
+            
+
+            CUT, COPY & PASTE & UNDO
+            ________________________
+            
+            
+ COPY & PASTE & UNDO
+ ___________________
  
  dd first -> it deleting the line, BUT also copying it!
  p (under cursor) or  P (over cursor) -> for pasting it
+ u  -  undo
+ 
  
  
  
