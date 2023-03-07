@@ -105,3 +105,23 @@ creating a file -> in terminal -> vim abc123
 
 everything in the vim docs in [..] is optional!  :q     is the same command like   :quit
 
+
+
+            CUT, COPY & PASTE
+            _________________
+            
+            
+ COPY & PASTE
+ ____________
+ 
+ dd first -> it deleting the line, BUT also copying it!
+ p (under cursor) or  P (over cursor) -> for pasting it
+ 
+ 
+ 
+ SWAPING CHARACTERS
+ __________________
+ 
+ x  then  p
+ 
+
