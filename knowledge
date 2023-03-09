@@ -141,4 +141,18 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  
  x  then  p
  
+ 
+ 
+ 
+ REGISTERS
+ _________
+ 
+ registers are storing locations (for the cuted text for example)
+ "" contains last operated on text
+ 
+ :reg  -  to open and see whats in the register
+ 
+ 
+ 
+ 
 
