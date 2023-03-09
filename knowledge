@@ -72,7 +72,6 @@ delete 3 words  -  d3w
 delete till beginning or end of the line  -  d0  or  d$
 
 delete one line  -  dd
-yank(paste) one line  -  yy
 
 delete more lines  -  3dd
 
@@ -131,9 +130,11 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  COPY & PASTE & UNDO
  ___________________
  
- dd first -> it deleting the line, BUT also copying it!
+ dd  -  is deleting the line, BUT also copying it!
+ yy  -  yank(paste) one line
  p (under cursor) or  P (over cursor) -> for pasting it
  u  -  undo
+ ctrl + r  -  redo
  
  
  
