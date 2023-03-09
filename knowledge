@@ -18,6 +18,8 @@ move down a page   -    control +
 
 move up one page   -    control + b
 
+move the page up   -   z  then  enter
+
 
 move right one word    -    w     or      W
 move more words        -   3w
@@ -116,9 +118,9 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
             _______________
             
             
-            cut    =   delete ()
+            cut    =   delete (x)
             copy   =   yank (yw, y3w or 3yw)
-            paste  =   put (p)
+            paste  =   put (p  or  P)
             
             
 
@@ -139,7 +141,8 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  SWAPING CHARACTERS
  __________________
  
- x  then  p
+ x          then          p
+ (delete)                 (paste)
  
  
  
