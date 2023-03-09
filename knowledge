@@ -44,6 +44,8 @@ Normal / Command Mode               press       esc
 
 -- Insert Mode --                   press             i
 
+to go straight into insert mode and enter something below or above a line -> o  or  O
+
 Line Mode
 
 and so one....
