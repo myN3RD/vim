@@ -1,3 +1,6 @@
+creating a file -> in terminal -> vim abc123
+
+            
             NAVIGATION
             __________
             
@@ -98,7 +101,18 @@ quit            ->            :q! (! = force quit)  or  :q
 
 
 
-creating a file -> in terminal -> vim abc123
+SEARCHING
+_________
+
+
+f (forward search)  +  charakter
+F (backward search) +  charakter
+
+
+; moves forward to all results
+, moves backwards to all results
+
+
 
 
 
@@ -160,6 +174,7 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  "" contains last operated on text
  
  :reg  -  to open and see whats in the register
+ 
  
  
  
