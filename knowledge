@@ -40,15 +40,17 @@ go to a specific line  -    ..gg  1gg 20gg 3gg
             _____
             
           
-Normal / Command Mode               press       esc
+Normal / Command Mode       -      esc
 
--- Insert Mode --                   press             i
+-- Insert Mode --           -      i
 
 to go straight into insert mode and enter something below or above a line -> o  or  O
 
 Line Mode
 
 and so one....
+
+-- Replace Mode --          -      R   or  r  (for one charakter) (-> works in normal mode)
 
 
 
