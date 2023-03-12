@@ -136,6 +136,12 @@ replace all in one line:
 :s/oldword/newword/g
 
 
+replace all:
+
+(% == 100%)
+:%s/oldword/newword/g
+
+
 
 
 
