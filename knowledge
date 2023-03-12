@@ -116,6 +116,25 @@ F (backward search) +  charakter
 ; moves forward to all results
 , moves backwards to all results
 
+/charakters
+
+
+
+REPLACE
+_______
+
+
+go to line where to want to replace ONE! 
+
+:/s/oldword/newword/
+:/s/oldword/newword
+
+
+replace all in one line:
+
+:s/oldword/newword/[flags]
+:s/oldword/newword/g
+
 
 
 
