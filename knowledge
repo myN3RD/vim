@@ -1,5 +1,8 @@
 creating a file -> in terminal -> vim abc123
 
+starting vim -> in terminal -> vim
+
+
             
             NAVIGATION
             __________
@@ -16,6 +19,7 @@ left  -  j
 right -  l
 
 
+jump to the top of the page  -  gg
 
 move down a page   -    control + 
 
@@ -93,7 +97,7 @@ ______
 
 save file while open -> :w
 
-save and quit -> first go back to -> normal mode -> press :wq         (wq = wwite and quit)
+save and quit -> first go back to -> normal mode -> press :wq         (wq = write and quit)
 
 quit            ->            :q! (! = force quit)  or  :q
 
