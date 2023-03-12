@@ -2,6 +2,8 @@ creating a file -> in terminal -> vim abc123
 
 starting vim -> in terminal -> vim
 
+set line numbers -> :set nu  off  :set nu!
+
 
             
             NAVIGATION
@@ -113,8 +115,8 @@ f (forward search)  +  charakter
 F (backward search) +  charakter
 
 
-; moves forward to all results
-, moves backwards to all results
+; moves same direction to all results
+, moves opposite direction to all results
 
 /charakters
 
