@@ -221,4 +221,23 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  
  
  
+ 
+            TEXT OBJECTS & MACROS
+            ______________________
+            
+
+operator  a  object
+operator  i  object
+
+
+daw ('delete a word')
+ciw ('Change inner Word')
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
