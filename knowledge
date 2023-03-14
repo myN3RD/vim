@@ -227,11 +227,17 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
             
 
 operator  a  object
-operator  i  object
+operator  i  object     ( keeps the space )
 
 
-daw ('delete a word')
-ciw ('Change inner Word')
+d aw ('delete a word')
+c iw ('Change inner Word')
+
+
+d as ('delete a sentence')
+c is ('Change inner sentence')
+
+
  
  
  
