@@ -51,7 +51,7 @@ go to a specific line  -    ..gg  1gg 20gg 3gg
           
 Normal / Command Mode       -      esc
 
--- Insert Mode --           -      i
+-- Insert Mode --           -      i  or  I (beginning of the line)
 
 to go straight into insert mode and enter something below or above a line -> o  or  O
 
@@ -124,6 +124,8 @@ F (backward search) +  charakter
 
 REPLACE
 _______
+
+replace  -  R  or  r (for one charakter)
 
 
 go to line where to want to replace ONE! 
