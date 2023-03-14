@@ -110,6 +110,7 @@ quit            ->            :q! (! = force quit)  or  :q
 SEARCHING
 _________
 
+/charakters
 
 f (forward search)  +  charakter
 F (backward search) +  charakter
@@ -118,7 +119,7 @@ F (backward search) +  charakter
 ; moves same direction to all results
 , moves opposite direction to all results
 
-/charakters
+
 
 
 
@@ -126,6 +127,10 @@ REPLACE
 _______
 
 replace  -  R  or  r (for one charakter)
+
+change word  -  cw (change word)
+
+change the entire line  -  cc
 
 
 go to line where to want to replace ONE! 
