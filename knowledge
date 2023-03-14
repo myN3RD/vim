@@ -120,6 +120,10 @@ F (backward search) +  charakter
 , moves opposite direction to all results
 
 
+n  -  jump forward trough all results
+N  -  jump opposite way trough all results
+
+
 
 
 
