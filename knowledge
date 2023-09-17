@@ -7,8 +7,7 @@ set line numbers -> :set nu  off  :set nu!
 
             
             NAVIGATION
-            __________
-            
+            __________           
 
 hjkl
 
@@ -46,8 +45,7 @@ go to a specific line  -    ..gg  1gg 20gg 3gg
 
 
             MODES
-            _____
-            
+            _____         
           
 Normal / Command Mode       -      esc
 
@@ -63,12 +61,11 @@ and so one....
 
 
 
+
             CHANGING AN EXISTING FILE
-            _________________________
-            
+            _________________________         
             
 go to the file with terminal -> vim filename
-
 
 
 
@@ -91,9 +88,6 @@ delete more lines  -  3dd
 
 
 
-
-
-
 QUIT & SAVING
 _____________
 
@@ -102,8 +96,6 @@ save file while open -> :w
 save and quit -> first go back to -> normal mode -> press :wq         (wq = write and quit)
 
 quit            ->            :q! (! = force quit)  or  :q
-
-
 
 
 
@@ -122,8 +114,6 @@ F (backward search) +  charakter
 
 n  -  jump forward trough all results
 N  -  jump opposite way trough all results
-
-
 
 
 
@@ -157,19 +147,12 @@ replace all:
 
 
 
-
-
-
             VIM HELP SYSTEM
             _______________
-            
-            
+                   
 :help
 
 everything in the vim docs in [..] is optional!  :q     is the same command like   :quit
-
-
-
 
 
 
@@ -182,7 +165,8 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
             copy   =   yank (yw, y3w or 3yw)
             paste  =   put (p  or  P)
             
-            
+
+
 
             CUT, COPY & PASTE & UNDO
             ________________________
@@ -197,15 +181,13 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  u  -  undo
  ctrl + r  -  redo
  
- 
- 
+  
  
  SWAPING CHARACTERS
  __________________
  
  x          then          p
  (delete)                 (paste)
- 
  
  
  
@@ -220,11 +202,8 @@ everything in the vim docs in [..] is optional!  :q     is the same command like
  
  
  
- 
- 
             TEXT OBJECTS & MACROS
-            ______________________
-            
+            ______________________            
 
 operator  a  object
 operator  i  object     ( keeps the space )
