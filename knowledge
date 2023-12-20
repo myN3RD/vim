@@ -65,7 +65,13 @@ and so one....
             CHANGING AN EXISTING FILE
             _________________________         
             
-go to the file with terminal -> vim filename
+terminal -> vim filename
+
+
+RENAME A FILE
+_____________
+
+ternimal -> mv filename.js newFileName.js 
 
 
 
