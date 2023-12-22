@@ -1,6 +1,10 @@
 creating a file -> in terminal -> vim abc123
 
-starting vim -> in terminal -> vim
+
+
+creating a folder -> mkdir foldername
+creating a file -> cat>filename
+starting vim -> in terminal -> vim filename
 
 set line numbers -> :set nu  off  :set nu!
 
